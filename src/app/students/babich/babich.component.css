@@ -30,9 +30,6 @@ body {
   background: url(../../../assets/babich/fon.jpg);
 }
 
-.footer {
-  background: url(../../../assets/babich/fon.jpg);
-} 
 section {
   padding: 6rem 0;
   width: 100%;
@@ -278,7 +275,7 @@ img {
 .footer {
   padding-top: 45px;
   padding-bottom: 130px;
-  background: #0000005c;
+  background: #000000dc;
   color: #FFFFFF;
 }
 
